@@ -1,7 +1,7 @@
 # Sistema-Banco-Java
-### Ideia: < br >
+### Ideia: 
 Caixa eletrônico feito em java.
-### Objetivo: < br >
+### Objetivo: 
 senha de acesso ao caixa, sacar e depositar. < br >
 < br >
 ### Como funciona:
